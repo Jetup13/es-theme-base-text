@@ -42,8 +42,8 @@ Creator:        Matt Gonzales (Jetup)
     <view name="system,detailed,video,basic">
     <helpsystem name="help">
          <fontPath>./Lato-Bold.ttf</fontPath>  
-         <fontSize>0.038</fontSize>
-		 <pos>0.0 0.94</pos>
+         <fontSize>0.00</fontSize>
+		 <pos>0.0 -1</pos>
 		 <textColor>ffffff</textColor>
 		 <iconColor>ffffff</iconColor>
     </helpsystem>
